@@ -1,4 +1,8 @@
-## W3Schools JavaScript Exercises
+<div align="center">
+  <img src="https://github.com/gurjeetsinghvirdee/W3Schools-JavaScript-Exercises/assets/73753957/54deee37-a961-4b04-9846-143207e598b4" width="125" height="125">
+</div>
+
+## W3 Schools JavaScript Exercises
 
 Welcome to the W3Schools JavaScript Exercises repository! This collection of exercises is designed to cover a wide range of JavaScript topics, helping you strengthen your skills and understanding of the language. Each topic comes with five exercises to ensure comprehensive coverage and ample practice opportunities.
 
@@ -174,6 +178,3 @@ W3Schools-JavaScript-Exercises/
     ├── exercise-4.md
     └── exercise-5.md
 ```
-
-### Contributing
-Your contributions are highly encouraged! If you have additional exercises, improvements, or corrections, feel free to submit a pull request. 
