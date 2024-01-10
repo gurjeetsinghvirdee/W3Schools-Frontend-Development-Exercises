@@ -125,4 +125,5 @@ This repository covers a wide array of frontend development topics, including bu
 ### LICENSE
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-<img src="https://img.shields.io/badge/MIT-LICENSE-blue?style=for-the-badge">
+If you found this repository helpful or valuable, consider giving it a star! 
+Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
