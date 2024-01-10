@@ -2,6 +2,6 @@
 
 ```javascript
 
-let `carName` = "`Volvo`";
+let carName = "Volvo";
 
 ```
