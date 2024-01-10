@@ -10,7 +10,6 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Topics Covered](#topics-covered)
-- [License](#license)
   
 ### Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
@@ -52,5 +51,4 @@ This repository covers a wide array of JavaScript topics, Some of the covered to
 - Break Loops
 - HTML DOM
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details. Feel free to use, share, and modify these exercises according to your learning needs. Happy coding!
+<img src="https://img.shields.io/badge/MIT-LICENSE-04aa6d?style=for-the-badge">
