@@ -1,4 +1,4 @@
-#### Use the correct **assignment operator** that will result in `x` being `50` (same as `x = x * y`).
+#### (Q) Use the correct **assignment operator** that will result in `x` being `50` (same as `x = x * y`).
 
 <h5> Solution </h5>
 
