@@ -1,6 +1,6 @@
-### (Q) Create a variable called `z`, assign `x + y` to it, and display the result in an alert box.
+#### (Q) Create a variable called `z`, assign `x + y` to it, and display the result in an alert box.
 
-#### Solution
+<h5> Solution </h5>
 
 ```javascript
 

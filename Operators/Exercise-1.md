@@ -1,6 +1,6 @@
-### (Q) Multiply `10` with `5`, and alert the result:
+#### (Q) Multiply `10` with `5`, and alert the result:
 
-#### Solution
+<h5> Solution </h5>
 
 ```javascript
 

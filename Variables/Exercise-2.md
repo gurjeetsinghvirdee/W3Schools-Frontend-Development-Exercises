@@ -1,6 +1,6 @@
-### (Q) Create a variable called `x`, assign the value `50` to it.
+#### (Q) Create a variable called `x`, assign the value `50` to it.
 
-#### Solution
+<h5> Solution </h5>
 
 ```javascript
 
