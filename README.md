@@ -7,11 +7,10 @@
 Welcome to the W3Schools Frontend Development Exercises repository! This collection of exercises is designed to cover a comprehensive range of topics in HTML, CSS, and JavaScript. Whether you are a beginner looking to build a solid foundation or an experienced developer seeking to enhance your frontend skills, these exercises provide hands-on practice and guidance.
 
 ### Table of Contents:-
-- Introduction
-- Usage
-- Topics Covered
-- Folder Structure
-- Contributing
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Topics Covered](#topics-covered)
+- [License](#license)
   
 ### Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
