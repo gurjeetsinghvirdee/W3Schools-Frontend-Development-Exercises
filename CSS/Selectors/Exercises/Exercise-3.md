@@ -2,7 +2,7 @@
 
 <h5>Solution</h5>
 
-###### HTML
+###### Code
 
 ```HTML
 
@@ -20,3 +20,6 @@
 </body>
 
 ```
+###### Result
+
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/66f93c52-3655-407d-8e59-68456205516e)
