@@ -2,7 +2,7 @@
 
 <h5>Solution</h5>
 
-###### HTML
+###### Code
 
 ```HTML
 
