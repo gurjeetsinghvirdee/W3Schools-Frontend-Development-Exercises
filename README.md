@@ -78,7 +78,7 @@ This repository covers a wide array of frontend development topics, including bu
 ### CSS
 
 - [Selectors](./CSS/Selectors/): Targeting HTML elements.
-- [How to Add CSS](./CSS/How-to-add-CSS): Inline, internal, and external methods.
+- [How to Add CSS](./CSS/How%20to%20Add%20CSS/): Inline, internal, and external methods.
 - Background: Styling background properties.
 - Border: Defining border styles.
 - Margin: Adjusting margin space.
