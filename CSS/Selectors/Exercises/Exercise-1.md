@@ -1,4 +1,4 @@
-#### (Q) Set the text color to red, for all <p> elements.
+#### (Q) Set the text color to red, for all `<p>` elements.
 
 <h5>Solution</h5>
 
