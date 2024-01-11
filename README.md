@@ -2,12 +2,12 @@
   <img src="https://github.com/gurjeetsinghvirdee/W3Schools-JavaScript-Exercises/assets/73753957/54deee37-a961-4b04-9846-143207e598b4" width="125" height="125">
 </div>
 
-## W3 Schools Frontend Development Exercises
+## Overview
 
 Welcome to the W3Schools Frontend Development Exercises repository! This collection of exercises is designed to cover a comprehensive range of topics in HTML, CSS, and JavaScript. Whether you are a beginner looking to build a solid foundation or an experienced developer seeking to enhance your frontend skills, these exercises provide hands-on practice and guidance.
 
 ### Table of Contents:-
-- [W3 Schools Frontend Development Exercises](#w3-schools-frontend-development-exercises)
+- [Overview](#overview)
   - [Table of Contents:-](#table-of-contents-)
   - [Introduction](#introduction)
   - [Usage](#usage)
@@ -133,3 +133,6 @@ This project is licensed under the MIT License.
 If you found this repository helpful or valuable, consider giving it a star! 
 Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
 
+<div align="right">
+  [Scroll To Top ⬆️](#overview)
+</div>  
