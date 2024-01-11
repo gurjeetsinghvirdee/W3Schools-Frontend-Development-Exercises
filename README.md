@@ -2,11 +2,19 @@
   <img src="https://github.com/gurjeetsinghvirdee/W3Schools-JavaScript-Exercises/assets/73753957/54deee37-a961-4b04-9846-143207e598b4" width="125" height="125">
 </div>
 
+![GitHub last commit](https://img.shields.io/github/last-commit/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=red)
+![Github Repo Size](https://img.shields.io/github/repo-size/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge)
+[![License](https://img.shields.io/github/license/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge)](./LICENSE)
+
+<br>
+
+
 ## Overview
 
 Welcome to the W3Schools Frontend Development Exercises repository! This collection of exercises is designed to cover a comprehensive range of topics in HTML, CSS, and JavaScript. Whether you are a beginner looking to build a solid foundation or an experienced developer seeking to enhance your frontend skills, these exercises provide hands-on practice and guidance.
 
 ### Table of Contents:-
+
 - [Overview](#overview)
   - [Table of Contents:-](#table-of-contents-)
   - [Introduction](#introduction)
@@ -15,7 +23,7 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
 - [HTML](#html)
 - [CSS](#css)
 - [JavaScript](#javascript)
-  - [LICENSE](#license)
+- [](#)
   
 ### Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
@@ -126,12 +134,9 @@ This repository covers a wide array of frontend development topics, including bu
 - Break Loops: Using break statements.
 - HTML DOM: Manipulating the Document Object Model.
 
-### LICENSE
-This project is licensed under the MIT License.
+## 
 
 If you found this repository helpful or valuable, consider giving it a star! 
 Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
 
-<div align="right">
-  [Scroll To Top ⬆️](#overview)
-</div>  
+<p align="right">(<a href="#top">back to top</a>)</p>  
