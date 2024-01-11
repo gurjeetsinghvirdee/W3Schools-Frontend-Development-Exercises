@@ -11,7 +11,10 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
   - [Table of Contents:-](#table-of-contents-)
   - [Introduction](#introduction)
   - [Usage](#usage)
-  - [Topics Covered](#topics-covered)
+  - [Topics Covered:](#topics-covered)
+- [HTML](#html)
+- [CSS](#css)
+- [JavaScript](#javascript)
   - [LICENSE](#license)
   
 ### Introduction
@@ -32,7 +35,7 @@ cd W3Schools-Frontend-Development-Exercises.git/topic-name
 
 Feel free to modify the exercises, create branches, and experiment with your solutions. The more hands-on experience you gain, the better your understanding of JavaScript will become.
 
-### Topics Covered
+### Topics Covered:
 This repository covers a wide array of frontend development topics, including but not limited to:
 
 ## HTML
@@ -63,7 +66,7 @@ This repository covers a wide array of frontend development topics, including bu
 
 ## CSS
 
-- Selectors: Targeting HTML elements.
+- [Selectors](./CSS/Selectors/): Targeting HTML elements.
 - How to Add CSS: Inline, internal, and external methods.
 - Background: Styling background properties.
 - Border: Defining border styles.
@@ -102,7 +105,8 @@ This repository covers a wide array of frontend development topics, including bu
 
 ## JavaScript
 
-- Variables: Declaring and using variables.
+- [Variables](./JavaScript/Variables): Declaring and using variables.
+- [Operators](./JavaScript/Operators/):
 - Data Types: Understanding JavaScript data types.
 - Functions: Defining and invoking functions.
 - Objects: Creating and manipulating objects.
@@ -110,7 +114,8 @@ This repository covers a wide array of frontend development topics, including bu
 - Strings: Working with string data.
 - Strings Methods: Employing string methods.
 - Arrays: Managing arrays.
-- Arrays Sort: Sorting array elements.
+- Array Sort: Sorting array elements.
+- Array Methods: 
 - Dates: Working with date objects.
 - Math: Performing mathematical operations.
 - Comparisons: Making logical comparisons.
