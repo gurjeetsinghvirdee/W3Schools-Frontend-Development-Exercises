@@ -12,9 +12,9 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
   - [Introduction](#introduction)
   - [Usage](#usage)
   - [Topics Covered:](#topics-covered)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
+- [HTML](#html)
+- [CSS](#css)
+- [JavaScript](#javascript)
   - [LICENSE](#license)
   
 ### Introduction
@@ -106,7 +106,7 @@ This repository covers a wide array of frontend development topics, including bu
 ## JavaScript
 
 - [Variables](./JavaScript/Variables): Declaring and using variables.
-- [Operators](./JavaScript/Operators/):
+- [Operators](./JavaScript/Operators/): Performing actions on variables and values.
 - Data Types: Understanding JavaScript data types.
 - Functions: Defining and invoking functions.
 - Objects: Creating and manipulating objects.
@@ -115,7 +115,7 @@ This repository covers a wide array of frontend development topics, including bu
 - Strings Methods: Employing string methods.
 - Arrays: Managing arrays.
 - Array Sort: Sorting array elements.
-- Array Methods: 
+- Array Methods: Efficient manipulation and transformation of arrays.
 - Dates: Working with date objects.
 - Math: Performing mathematical operations.
 - Comparisons: Making logical comparisons.
@@ -132,3 +132,4 @@ This project is licensed under the MIT License.
 
 If you found this repository helpful or valuable, consider giving it a star! 
 Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
+
