@@ -12,6 +12,13 @@
     }
 </style>
 
+<body>
+    <h1>This is a heading</h1>
+    <h2>This is a heading</h2>
+    <p>This is a paragraph</p>
+    <p>This is a paragraph</p>
+</body>
+
 ```
 
 ###### Result
