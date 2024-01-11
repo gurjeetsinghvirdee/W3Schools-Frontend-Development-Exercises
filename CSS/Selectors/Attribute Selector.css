@@ -1,0 +1,5 @@
+input[type="text"] {
+    border: 1px solid gray;
+}
+
+/* This rule applies the specified style to all <input> elements with the attribute type set to "text." */

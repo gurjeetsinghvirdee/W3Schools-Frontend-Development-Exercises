@@ -1,0 +1,5 @@
+article p {
+    font-style: italic;
+}
+
+/* This rule applies the specified style to all <p> elements that are descendants of <article> elements. */

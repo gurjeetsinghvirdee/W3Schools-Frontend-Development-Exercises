@@ -1,0 +1,5 @@
+nav > ul {
+    list-style-type: none;
+}
+
+/* This rule applies the specified style to all <ul> elements that are direct children of <nav>. */
