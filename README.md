@@ -1,4 +1,4 @@
-<div align="center">
+<div id="top" align="center">
   <img src="https://github.com/gurjeetsinghvirdee/W3Schools-JavaScript-Exercises/assets/73753957/54deee37-a961-4b04-9846-143207e598b4" width="125" height="125">
 </div>
 
@@ -125,7 +125,6 @@ This repository covers a wide array of frontend development topics, including bu
 - While Loops: Implementing while loops.
 - Break Loops: Using break statements.
 - HTML DOM: Manipulating the Document Object Model.
-
 
 ### LICENSE
 This project is licensed under the MIT License.
