@@ -18,3 +18,5 @@
 </body>
 
 ```
+
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/a15dc619-a654-4873-ac58-134575cba6b8)
