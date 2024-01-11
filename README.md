@@ -5,12 +5,12 @@
 <br>
 
 <div align="center">
-![GitHub last commit](https://img.shields.io/github/  last-commit/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge&color=red)
-![Github Repo Size](https://img.shields.io/github/  repo-size/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)
-[![License](https://img.shields.io/github/license/  gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)](./LICENSE)
-</div>
 
-<br>
+![GitHub last commit](https://img.shields.io/github/last-commit/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=green)
+![Github Repo Size](https://img.shields.io/github/repo-size/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=red)
+[![Licence](https://img.shields.io/github/license/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=blue)](./LICENSE)
+
+</div>
 
 ## Overview
 
@@ -27,10 +27,10 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
     - [CSS](#css)
     - [JavaScript](#javascript)
   
-### Introduction
+## Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
 
-### Usage
+## Usage
 To get started, simply clone this repository to your local machine:
 
 ```bash
@@ -45,10 +45,10 @@ cd W3Schools-Frontend-Development-Exercises.git/topic-name
 
 Feel free to modify the exercises, create branches, and experiment with your solutions. The more hands-on experience you gain, the better your understanding of JavaScript will become.
 
-### Topics Covered:
+## Topics Covered:
 This repository covers a wide array of frontend development topics, including but not limited to:
 
-## HTML
+### HTML
 
 - Basic: Tags and document structure.
 - Attributes: Utilizing HTML attributes.
@@ -74,7 +74,7 @@ This repository covers a wide array of frontend development topics, including bu
 - Input Types: Text, password, checkbox, radio, etc.
 - Input Attributes: Attributes for form elements.
 
-## CSS
+### CSS
 
 - [Selectors](./CSS/Selectors/): Targeting HTML elements.
 - How to Add CSS: Inline, internal, and external methods.
@@ -113,7 +113,7 @@ This repository covers a wide array of frontend development topics, including bu
 - Transitions: Creating smooth transitions.
 - Animations: Designing CSS animations.
 
-## JavaScript
+### JavaScript
 
 - [Variables](./JavaScript/Variables): Declaring and using variables.
 - [Operators](./JavaScript/Operators/): Performing actions on variables and values.
@@ -141,4 +141,4 @@ This repository covers a wide array of frontend development topics, including bu
 If you found this repository helpful or valuable, consider giving it a star! 
 Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
 
-<p align="right">(<a href="#top">back to top</a>)</p>  
+<p align="right">(<a href="#top">back to top</a>)</p>
