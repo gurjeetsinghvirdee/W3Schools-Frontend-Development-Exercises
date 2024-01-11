@@ -2,22 +2,14 @@
 
 <h5>Solution</h5>
 
+###### HTML
+
 ```HTML
 
 <style>
     p {
-        color: red;        /* In HTML */
+        color: red;        
     }
 </style>
-
-```
-
-OR
-
-```CSS
-
-p {
-    color: red;         /* In CSS */
-}
 
 ```
