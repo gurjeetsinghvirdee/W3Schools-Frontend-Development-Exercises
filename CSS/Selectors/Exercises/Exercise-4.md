@@ -23,3 +23,4 @@
 
 ###### Result
 
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/6827bdc1-63b7-42f7-95f1-cdb15db4473a)
