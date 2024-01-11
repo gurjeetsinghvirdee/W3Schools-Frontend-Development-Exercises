@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  ![GitHub last commit](https://img.shields.io/github/  last-commit/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge&color=red)
-  ![Github Repo Size](https://img.shields.io/github/  repo-size/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)
-  [![License](https://img.shields.io/github/license/  gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)](./LICENSE)
+![GitHub last commit](https://img.shields.io/github/  last-commit/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge&color=red)
+![Github Repo Size](https://img.shields.io/github/  repo-size/gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)
+[![License](https://img.shields.io/github/license/  gurjeetsinghvirdee/ W3Schools-Frontend-Development-Exercises?  style=for-the-badge)](./LICENSE)
 </div>
 
 <br>
@@ -23,9 +23,9 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
   - [Introduction](#introduction)
   - [Usage](#usage)
   - [Topics Covered:](#topics-covered)
-- [HTML](#html)
-- [CSS](#css)
-- [JavaScript](#javascript)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
   
 ### Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
