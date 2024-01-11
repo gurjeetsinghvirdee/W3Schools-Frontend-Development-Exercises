@@ -12,9 +12,9 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
   - [Introduction](#introduction)
   - [Usage](#usage)
   - [Topics Covered:](#topics-covered)
-- [HTML](#html)
-- [CSS](#css)
-- [JavaScript](#javascript)
+    - [HTML](#html)
+    - [CSS](#css)
+    - [JavaScript](#javascript)
   - [LICENSE](#license)
   
 ### Introduction
