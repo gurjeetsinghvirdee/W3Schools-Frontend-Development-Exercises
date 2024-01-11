@@ -20,12 +20,12 @@ Welcome to the W3Schools Frontend Development Exercises repository! This collect
 
 - [Overview](#overview)
   - [Table of Contents:-](#table-of-contents-)
-  - [Introduction](#introduction)
-  - [Usage](#usage)
-  - [Topics Covered:](#topics-covered)
-    - [HTML](#html)
-    - [CSS](#css)
-    - [JavaScript](#javascript)
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Topics Covered:](#topics-covered)
+  - [HTML](#html)
+  - [CSS](#css)
+  - [JavaScript](#javascript)
   
 ## Introduction
 This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
@@ -50,7 +50,8 @@ This repository covers a wide array of frontend development topics, including bu
 
 ### HTML
 
-- Basic: Tags and document structure.
+- [Basic](./HTML/Basic/): Tags and document structure.
+- [Elements](./HTML/Elements/): HTML elements for structuring content, including headings, paragraphs etc.
 - Attributes: Utilizing HTML attributes.
 - Headings: Creating hierarchical headings.
 - Paragraphs: Structuring text content.
