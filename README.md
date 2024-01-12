@@ -31,7 +31,7 @@ To get started, simply clone this repository to your local machine. If you're un
 1. **Fork the Repository:**
     Look for the **Fork** button on the top-right corner of the repository's page. Click on it.
    
-    <img src="https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/2dcd6bd1-a007-4a51-b042-3a18d08af809" width="700">
+    <img src="https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/2dcd6bd1-a007-4a51-b042-3a18d08af809" width="900">
    
 2. **Clone the Repository:**
    Now Open your terminal and run the following command:
