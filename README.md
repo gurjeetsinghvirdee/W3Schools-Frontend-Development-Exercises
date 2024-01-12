@@ -46,7 +46,7 @@ cd W3Schools-Frontend-Development-Exercises.git/topic-name
 Feel free to modify the exercises, create branches, and experiment with your solutions. The more hands-on experience you gain, the better your understanding of JavaScript will become.
 
 ## Topics Covered:
-This repository covers a wide array of frontend development topics, including but not limited to:
+Expanded coverage in the repository to include a diverse range of frontend development topics. Encompassing HTML elements, CSS styling, and JavaScript functionalities, the repository provides hands-on exercises solution and explanations for each topic, catering to learners at various skill levels.
 
 ### HTML
 
