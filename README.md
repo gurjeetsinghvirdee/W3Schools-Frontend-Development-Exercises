@@ -28,14 +28,19 @@ Welcome to the Frontend Development Practice Repository! Here, you'll find a cur
 ## Usage
 To get started, simply clone this repository to your local machine. If you're unfamiliar with GitHub or unsure how to do this, follow these steps:
 
-1. **Clone the Repository:**
-   Open your terminal and run the following command:
+1. **Fork the Repository:**
+    Look for the **Fork** button on the top-right corner of the repository's page. Click on it.
+   
+    <img src="https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/2dcd6bd1-a007-4a51-b042-3a18d08af809" width="700">
+   
+2. **Clone the Repository:**
+   Now Open your terminal and run the following command:
 
     ```bash
-    git clone https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises.git
+    git clone https://github.com/your-github-username/W3Schools-Frontend-Development-Exercises.git
     ```
 
-2. **Navigate to the Desired Topic:**
+3. **Navigate to the Desired Topic:**
    Change your directory to the specific topic you want to practice:
 
     ```bash
@@ -44,7 +49,7 @@ To get started, simply clone this repository to your local machine. If you're un
 
    Each topic folder contains exercises related to HTML, CSS, and JavaScript, providing a well-rounded learning experience.
 
-3. **Download for Offline Practice:**
+4. **Download for Offline Practice:**
    If you prefer not to use Git or GitHub directly, you can also download the entire repository as a ZIP file.
    Simply click on the **"Code" button (green box)** on the GitHub repository page and select **"Download ZIP."**
    Extract the contents on your local machine and navigate to the desired topic folder.
