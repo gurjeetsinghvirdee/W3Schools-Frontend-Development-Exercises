@@ -83,6 +83,8 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | Input Types | Text, password, checkbox, radio, etc. |
 | Input Attributes | Attributes for form elements. |
 
+<p align="right">(<a href="#top">⬆️</a>)</p>
+
 ### CSS
 
 | Topics Covered | Description |
@@ -124,6 +126,8 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | Transitions | Creating smooth transitions. |
 | Animations | Designing CSS animations. |
 
+<p align="right">(<a href="#top">⬆️</a>)</p>
+
 ### JavaScript
 
 | Topics Covered | Description |
@@ -149,9 +153,9 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | Break Loops | Using break statements. |
 | HTML DOM | Manipulating the Document Object Model. |
 
-<br>
+### Support
 
-If you found this repository helpful or valuable, consider giving it a star! 
-Your support is greatly appreciated, and it encourages continuous improvement and the creation of more resources for the community. 🌟✨
+If you find this repository helpful, your support means a lot! Please consider giving it a star—it's a small gesture but greatly motivates me to continue creating and improving resources. 
+Thank you for your support! ⭐️✨
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">⬆️</a>)</p>
