@@ -1,4 +1,4 @@
-#### Specify an alternate text for the image.
+#### (Q) Specify an alternate text for the image.
 #### Alternate text is useful when the image cannot be displayed, like when the page is read by a screen reader.
 
 <h5>Solution</h5>

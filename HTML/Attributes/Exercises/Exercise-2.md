@@ -1,4 +1,4 @@
-#### Set the size of the image to 250 pixels wide and 400 pixels tall.
+#### (Q) Set the size of the image to 250 pixels wide and 400 pixels tall.
 
 <h5>Solution</h5>
 
