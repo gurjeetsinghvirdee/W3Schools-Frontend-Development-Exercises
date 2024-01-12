@@ -12,23 +12,18 @@
 
 </div>
 
-## Overview
-
-Welcome to the Frontend Development Exercises repository! This collection of hands-on exercises covers a comprehensive range of topics in HTML, CSS, and JavaScript. Whether you're a beginner building a solid foundation or an experienced developer looking to enhance your frontend skills, these exercises provide practical, real-world scenarios. Each exercise includes solution results in the form of images, allowing you to visually check how the code works. Detailed explanations accompany each exercise, offering insights into the underlying concepts, and examples illustrate different use cases and scenarios. The exercises span a wide array of frontend development topics, including HTML structure, CSS styling, JavaScript functionalities, and more. Varied difficulty levels cater to learners of all experience levels, allowing everyone to learn and practice at their own pace.
-
 ### Table of Contents:-
 
 - [Overview](#overview)
-  - [Table of Contents:-](#table-of-contents-)
-- [Introduction](#introduction)
 - [Usage](#usage)
 - [Topics Covered:](#topics-covered)
   - [HTML](#html)
   - [CSS](#css)
   - [JavaScript](#javascript)
-  
-## Introduction
-This repository contains a set of exercises inspired by W3Schools tutorials on frontend development. The exercises are structured to cover HTML, CSS, and JavaScript, allowing you to strengthen your skills in building responsive and interactive user interfaces. Whether you're working on web development projects or preparing for interviews, these exercises offer a practical and hands-on approach to learning.
+
+## Overview
+
+Welcome to the Frontend Development Practice Repository! Here, you'll find a curated collection of W3Schools' frontend development tutorial exercises, accompanied by their solutions and visual results in the form of images. I've created this repository with the understanding that many students may face data constraints for online practice tests. You can download this repository to your local system and practice at your convenience. The solutions, presented in image form, allow you to check and continue your practice even without an internet connection. Whether you're reinforcing your skills or exploring practical exercises in HTML, CSS, and JavaScript, this repository offers a hands-on learning experience. Enhance your understanding with detailed solutions and gain valuable insights into web development. Happy coding!
 
 ## Usage
 To get started, simply clone this repository to your local machine:
