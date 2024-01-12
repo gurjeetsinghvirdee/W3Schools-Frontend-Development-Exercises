@@ -1,4 +1,4 @@
-# In HTML, attributes are additional information provided within the opening tag of an element. They modify the behavior or appearance of the element. Here's an example of how you might use attributes in HTML, represented in Markdown format for clarity:
+<p>In HTML, attributes are additional information provided within the opening tag of an element. They modify the behavior or appearance of the element. Here's an example of how you might use attributes in HTML, represented in Markdown format for clarity:</p>
 
 ## HTML Attributes Examples
 
@@ -50,4 +50,4 @@ The `style` attribute allows inline CSS styling for an element.
 <p style="color: blue; font-size: 16px;">This paragraph has inline styles.</p>
 ```
 
-These are just a few examples, and there are many more attributes available in HTML for various elements, each serving different purposes. Attributes enhance the functionality and presentation of HTML elements.
+<p>These are just a few examples, and there are many more attributes available in HTML for various elements, each serving different purposes. Attributes enhance the functionality and presentation of HTML elements.</p>
