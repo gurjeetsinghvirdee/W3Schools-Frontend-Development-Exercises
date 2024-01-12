@@ -52,7 +52,7 @@ This repository covers a wide array of frontend development topics, including bu
 
 - [Basic](./HTML/Basic/): Tags and document structure.
 - [Elements](./HTML/Elements/): HTML elements for structuring content, including headings, paragraphs etc.
-- Attributes: Utilizing HTML attributes.
+- [Attributes](./HTML/Attributes/): Utilizing HTML attributes.
 - Headings: Creating hierarchical headings.
 - Paragraphs: Structuring text content.
 - Styles: Inline and internal styling.
