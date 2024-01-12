@@ -153,7 +153,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | Break Loops | Using break statements. |
 | HTML DOM | Manipulating the Document Object Model. |
 
-### Support
+## Support
 
 If you find this repository helpful, your support means a lot! Please consider giving it a star—it's a small gesture but greatly motivates me to continue creating and improving resources. 
 Thank you for your support! ⭐️✨
