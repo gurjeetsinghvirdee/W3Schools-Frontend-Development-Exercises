@@ -20,3 +20,6 @@ An inline style refers to the application of CSS directly within an HTML element
 
 ###### Result
 
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/4a1e015c-1bc9-46d8-b0bb-8ef10cbe5111)
+
+Same Result as Exercise-2 but here we used inline-styling.
