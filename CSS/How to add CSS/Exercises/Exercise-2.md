@@ -1,4 +1,4 @@
-#### (Q) Add an external style sheet with the URL: `"mystyle.css"`.
+#### (Q) Set the page's background color to red.
 
 <h5>Solution</h5>
 
@@ -6,9 +6,11 @@
 
 ```HTML
 
-<head>
-    <link rel="stylesheet" href="mystyle.css">
-</head>
+<style>
+    body {
+        background-color: red;
+    }
+</style>
 
 <body>
     <h1>This is a heading</h1>
