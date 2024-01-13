@@ -1,0 +1,20 @@
+.shorthand-border {
+    border: 3px solid #000000;
+    margin-bottom: 10px;
+}
+
+/* Individual borders for each side */
+.individual-borders {
+    border-top: 2px dashed #336699;
+    border-right: 3px double #ff0000;
+    border-bottom: 4px solid #00cc00;
+    border-left: 5px dotted #993366;
+    margin-bottom: 10px;
+}
+
+/* Mixing individual properties */
+.mixed-borders {
+    border-width: 1px 2px 3px 4px;
+    border-style: solid dotted dashed double;
+    border-color: #000000 #ff0000 #00ff00 #0000ff;
+}
