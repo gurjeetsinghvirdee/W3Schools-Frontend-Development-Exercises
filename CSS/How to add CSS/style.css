@@ -1,0 +1,13 @@
+* {
+    background-color: cornflowerblue;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
