@@ -14,5 +14,9 @@
 
 ```
 
+#### What is inline-style?
+
+An inline style refers to the application of CSS directly within an HTML element's tag. This allows you to apply styling specifically to that particular element, without the need for a separate CSS file or a **style>** block in the document head.
+
 ###### Result
 
