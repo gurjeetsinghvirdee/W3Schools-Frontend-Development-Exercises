@@ -12,5 +12,4 @@ An external style sheet is a separate file containing CSS (Cascading Style Sheet
 
 ### I have uploaded images for you to check in one place. For the code, you can refer to the two files provided.
 
-[HTML File](./index.html)
-[CSS File](./style.css)
+[Example](./Example/)
