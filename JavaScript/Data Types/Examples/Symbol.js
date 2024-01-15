@@ -1,0 +1,1 @@
+let mySymbol = Symbol("unique");
