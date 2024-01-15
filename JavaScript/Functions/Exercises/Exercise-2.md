@@ -11,6 +11,3 @@ function myFunction() {
 }
 
 ```
-
-###### Result
-
