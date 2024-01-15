@@ -68,7 +68,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | [Elements](./HTML/Elements/) | HTML elements for structuring content, including headings, paragraphs, etc. |
 | [Attributes](./HTML/Attributes/) | Utilizing HTML attributes. |
 | [Headings](./HTML/Headings/Exercises/) | Creating hierarchical headings. |
-| Paragraphs | Structuring text content. |
+| [Paragraphs](./HTML/Paragraphs/) | Structuring text content. |
 | Styles | Inline and internal styling. |
 | Formatting | Semantic formatting elements. |
 | Quotations | Quoting text with `<q>` and `<blockquote>`. |
