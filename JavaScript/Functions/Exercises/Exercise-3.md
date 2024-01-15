@@ -13,5 +13,4 @@ document.getElementById("demo").innerHTML = myFunction();
 
 ```
 
-###### Result
-
+###### Note: This code will display `"Hello"` inside the `div` with the ID `"demo"` when the page is loaded.
