@@ -1,3 +1,4 @@
 function myFunction() {
-    console.log("This is a function");
+    return "This is a function";
 }
+console.log(myFunction());
