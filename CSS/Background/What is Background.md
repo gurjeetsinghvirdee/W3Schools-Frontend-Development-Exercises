@@ -25,5 +25,6 @@ Go through [Example Code](./Examples/)
 
 ###### Result
 
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/ee319868-e7a7-415a-a0e0-95060d7ad0c2)
 
 In this example, the background color is set, an image is used as the background, it won't repeat, it's centered, covers the entire element, and remains fixed as the content is scrolled.
