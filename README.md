@@ -97,7 +97,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | -------------- | ----------- |
 | [Selectors](./CSS/Selectors/) | Targeting HTML elements. |
 | [How to add CSS](./CSS/How%20to%20add%20CSS/) | Inline, internal, and external methods. |
-| Background | Styling background properties. |
+| [Background](./CSS/Background/) | Styling background properties. |
 | [Border](./CSS/Border/) | Defining border styles. |
 | Margin | Adjusting margin space. |
 | Padding | Setting padding within elements. |

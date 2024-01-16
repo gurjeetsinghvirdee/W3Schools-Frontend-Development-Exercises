@@ -8,8 +8,8 @@
 
 <style>
     body {
-        background-image: url(./Assets/background-image.jpg);
-        background-repeat: vertical;
+        background-image: url(/Assets/background-image.jpg);
+        background-repeat: repeat-y;
     }
 </style>
 

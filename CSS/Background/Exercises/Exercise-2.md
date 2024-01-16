@@ -8,7 +8,7 @@
 
 <style>
     body {
-        background-image: background-image: url('./Assets/paper.gif');
+        background-image: background-image: url(/Assets/paper.gif);
     }
 </style>
 
