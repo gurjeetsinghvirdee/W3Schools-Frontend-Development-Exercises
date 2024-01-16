@@ -1,4 +1,4 @@
-#### (Q) Set "paper.gif" as the background image of the page.
+#### (Q) Set `"paper.gif"` as the background image of the page.
 
 <h5>Solution</h5>
 
@@ -8,7 +8,7 @@
 
 <style>
     body {
-        background-image: background-image: url(/Assets/paper.gif);
+        background-image: url(/Assets/paper.gif);
     }
 </style>
 
@@ -22,3 +22,4 @@
 
 ###### Result
 
+![image](https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/bfd52540-160e-4436-9105-ed6b183b914b)
