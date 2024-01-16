@@ -14,3 +14,7 @@
 </style>
 
 ```
+
+###### Result
+
+<img src="https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/99f8f419-a091-4bc1-a5ab-0f3d81fbb79e" width="800">
