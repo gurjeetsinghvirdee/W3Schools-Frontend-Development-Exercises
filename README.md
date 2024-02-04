@@ -142,7 +142,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | [Operators](./JavaScript/Operators/) | Performing actions on variables and values. |
 | [Data Types](./JavaScript/Data%20Types/) | Understanding JavaScript data types. |
 | [Functions](./JavaScript/Functions/) | Defining and invoking functions. |
-| Objects | Creating and manipulating objects. |
+| [Objects](./JavaScript/Objects/) | Creating and manipulating objects. |
 | Events | Handling HTML events. |
 | Strings | Working with string data. |
 | Strings Methods | Employing string methods. |
