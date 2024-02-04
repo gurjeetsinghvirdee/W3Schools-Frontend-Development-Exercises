@@ -17,3 +17,4 @@ alert(person.name + " is " + person.age);
 
 ###### Result
 
+<image src="https://github.com/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises/assets/73753957/b065127b-bf81-4c11-a005-4b16216f0738" width="500" />
