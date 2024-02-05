@@ -144,7 +144,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | [Functions](./JavaScript/Functions/) | Defining and invoking functions. |
 | [Objects](./JavaScript/Objects/) | Creating and manipulating objects. |
 | [Events](./JavaScript/Events/) | Handling HTML events. |
-| Strings | Working with string data. |
+| [Strings](./JavaScript/Strings/) | Working with string data. |
 | Strings Methods | Employing string methods. |
 | Arrays | Managing arrays. |
 | Array Sort | Sorting array elements. |
