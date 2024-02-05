@@ -11,4 +11,4 @@ Here are some key points about events:
   To react to an event, you attach an event handler to it. This is a block code (usually a JavaScript function that you as a programmer create that runs when the event fires).
 
 - *Common HTML Events:*
-  Some common HTML events include `[onchange](./Examples/onchange/)` (an HTML element has been changed), `[onclick](./Examples/onclick/)` (the user clicks an HTML element), `[onmouseover](./Examples/onmouseover/)` (the user moves the mouse over from an HTML element), `[onmouseout](./Examples/onmouseout/)` (the user moves the mouse away from an HTML element), `[onkeydown](./Examples/onkeydown/)` (the user pushes a keyword key), and `[onload](./Examples/onload/)` (the browser has finished loading the page).
+  Some common HTML events include `onchange` (an HTML element has been changed), `onclick` (the user clicks an HTML element), `onmouseover` (the user moves the mouse over from an HTML element), `onmouseout` (the user moves the mouse away from an HTML element), `onkeydown` (the user pushes a keyword key), and `onload` (the browser has finished loading the page).
