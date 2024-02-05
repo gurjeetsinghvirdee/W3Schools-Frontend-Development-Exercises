@@ -143,7 +143,7 @@ Expanded coverage in the repository to include a diverse range of frontend devel
 | [Data Types](./JavaScript/Data%20Types/) | Understanding JavaScript data types. |
 | [Functions](./JavaScript/Functions/) | Defining and invoking functions. |
 | [Objects](./JavaScript/Objects/) | Creating and manipulating objects. |
-| Events | Handling HTML events. |
+| [Events](./JavaScript/Events/) | Handling HTML events. |
 | Strings | Working with string data. |
 | Strings Methods | Employing string methods. |
 | Arrays | Managing arrays. |
