@@ -9,5 +9,3 @@
 <button onclick="myFunction()">Click me.</button>
 
 ```
-
-###### Result
