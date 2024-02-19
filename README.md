@@ -8,7 +8,13 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=green)
 ![Github Repo Size](https://img.shields.io/github/repo-size/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=red)
-[![Licence](https://img.shields.io/github/license/gurjeetsinghvirdee/W3Schools-Frontend-Development-Exercises?style=for-the-badge&color=blue)](./LICENSE)
+
+</div>
+
+
+<div align="center">
+  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 </div>
 
